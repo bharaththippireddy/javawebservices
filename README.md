@@ -1,6 +1,6 @@
 # Java Web Services
 
-This repository is accompanies Bharath Thippireddy's Udemy course *Java Web Services* with JAX-RS (REST) and JAX-WS (SOAP) leveraging the very powerful Apache CXF Web Services engine.
+This repository accompanies Bharath Thippireddy's Udemy course *Java Web Services*. The course leverages the very powerful Apache CXF Web Services engine to develop and deliver  JAX-RS (REST) and JAX-WS (SOAP) web services and clients. You'll learn how to build contract, or WSDL, first SOAP services or how to extracting web services from legacy applications and monoliths as well as a complete course on building modern RESTful webservices.
 
 Modern web services supporting time-tested SOAP Services and Clients and lightweight REST webservices are presented in the course. Bharath challenges the learner with quizzes on key concepts and assignments throughout the course.
 
